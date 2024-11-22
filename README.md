@@ -49,8 +49,13 @@ Ensure you have the following Python libraries installed:
 ## Sample Output
 
 Bar chart showing average votes for each year, with 95% confidence intervals and color-coded bars.
+**Sample 1**
 ![sample_output1](https://github.com/Lazycodes/Bar_Chart_Visualization_with_Confidence_Intervals_and_Interactive_Slider/blob/main/Screenshot%202024-11-22%20at%2021.22.55.png)
+
+**Sample 2**
 ![sample_output2](https://github.com/Lazycodes/Bar_Chart_Visualization_with_Confidence_Intervals_and_Interactive_Slider/blob/main/Screenshot%202024-11-22%20at%2021.23.48.png)
+
+**Sample 3**
 ![sample_output3](https://github.com/Lazycodes/Bar_Chart_Visualization_with_Confidence_Intervals_and_Interactive_Slider/blob/main/Screenshot%202024-11-22%20at%2021.24.14.png)
 
 ---
